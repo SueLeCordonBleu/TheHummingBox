@@ -1,0 +1,36 @@
+#hummingBtn{
+  width: 300px;
+  height: 300px;
+  font-size: 24px;
+  padding: 40px;
+  background-color: orange;
+  position: relative;
+  display: inline-block;
+  border-radius: 150px;
+  outline: none;
+}
+
+#status {
+  visibility: hidden;
+}
+
+#result {
+  visibility: hidden;
+}
+
+h1 {
+    color: white;
+    margin: 48px;
+    margin-bottom: 150px;
+}
+
+div{
+  width: 100%;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
